@@ -1,4 +1,4 @@
-````markdown
+
 # PDF Outline Extractor – Adobe Hackathon Round 1A
 
 ## Overview
@@ -106,4 +106,4 @@ Each detected heading is stored along with its page number. The final result is 
 * Architecture: Compatible with AMD64 (x86\_64) CPUs
 * No hardcoded logic, no internet usage, no API calls, no GPU
 
-```
+
